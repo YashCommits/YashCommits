@@ -27,6 +27,8 @@
 </p>
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#8312](https://github.com/EddieHubCommunity/support/issues/8312) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+<!--END_SECTION:activity-->
 
 
 
