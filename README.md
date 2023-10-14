@@ -32,7 +32,6 @@
 
 
 
-<!--END_SECTION:activity-->
 
 <!-- this is the first thing i am learning about github-->
 <!--
