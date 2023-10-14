@@ -16,6 +16,7 @@
   <summary>Wanna know more about me? ok click here</summary>
   I am a B.Tech ECE (2026') student at MAIT delhi who Dedicated to expand knowledge and skills in software development & Seeking opportunities to grow and contribute in tech so connect with me on twitter and linkedin and follow my journey
 </details>
+
 <p allign="centre">
   <img 
    src="https://github-readme-stats.vercel.app/api?username=YashCommits&show_icons=true&theme=tokyonight" 
@@ -24,6 +25,15 @@
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashCommits&layout=pie&theme=tokyonight"
   />
 </p>
+
+<!--START_SECTION:activity-->
+
+
+
+
+
+<!--END_SECTION:activity-->
+
 <!-- this is the first thing i am learning about github-->
 <!--
 **YashCommits/YashCommits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
