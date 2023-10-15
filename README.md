@@ -27,7 +27,7 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8312](https://github.com/EddieHubCommunity/support/issues/8312) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#110](https://github.com/vczb/sagu-ui/issues/110#issuecomment-1763479668) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
 <!--END_SECTION:activity-->
 
 
