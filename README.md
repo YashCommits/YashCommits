@@ -27,7 +27,7 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/vczb/sagu-ui/issues/110#issuecomment-1763479668) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
+1. 🎉 Merged PR [#1](https://github.com/YashCommits/readrepo/pull/1) in [YashCommits/readrepo](https://github.com/YashCommits/readrepo)
 <!--END_SECTION:activity-->
 
 
