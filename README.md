@@ -27,7 +27,7 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/YashCommits/readrepo/pull/1) in [YashCommits/readrepo](https://github.com/YashCommits/readrepo)
+1. 💪 Opened PR [#111](https://github.com/vczb/sagu-ui/pull/111) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
 <!--END_SECTION:activity-->
 
 
