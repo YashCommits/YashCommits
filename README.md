@@ -27,7 +27,7 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#111](https://github.com/vczb/sagu-ui/pull/111) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
+1. 💪 Opened PR [#2](https://github.com/LAKSHAYBANSAL879/blood-bank-managment/pull/2) in [LAKSHAYBANSAL879/blood-bank-managment](https://github.com/LAKSHAYBANSAL879/blood-bank-managment)
 <!--END_SECTION:activity-->
 
 
