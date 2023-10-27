@@ -27,7 +27,7 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/TechBastic/roadmaps/pull/26) in [TechBastic/roadmaps](https://github.com/TechBastic/roadmaps)
+1. 🎉 Merged PR [#27](https://github.com/TechBastic/roadmaps/pull/27) in [TechBastic/roadmaps](https://github.com/TechBastic/roadmaps)
 
 
 
