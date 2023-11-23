@@ -27,7 +27,7 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/TechBastic/roadmaps/pull/27) in [TechBastic/roadmaps](https://github.com/TechBastic/roadmaps)
+1. 💪 Opened PR [#2](https://github.com/LAKSHAYBANSAL879/BLOOD-BANK-MANAGMENT/pull/2) in [LAKSHAYBANSAL879/BLOOD-BANK-MANAGMENT](https://github.com/LAKSHAYBANSAL879/BLOOD-BANK-MANAGMENT)
 
 
 
