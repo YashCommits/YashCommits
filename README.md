@@ -1,4 +1,4 @@
-![my_banner](https://github.com/YashCommits/YashCommits/assets/140940344/ad15d44b-9758-4a49-8330-12540c640aae)
+![my_banner](https://github.com/YashCommits/YashCommits/assets/140940344/64c4edf9-4d50-4d00-b274-cb53b5db03a3)
 
 ### Hi there visitors👋
 # About me
